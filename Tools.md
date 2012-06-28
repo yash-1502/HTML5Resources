@@ -24,5 +24,6 @@ JavaScript
 ----------
 
 - [JSPerf](http://jsperf.com/) - Create test cases for JavaScript performance
+- [JSHint](http://www.jshint.com/) - Code quality and coding conventions checker
 
 **[← Back](https://github.com/SirPepe/HTML5Resources/blob/master/README.md)**
