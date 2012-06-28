@@ -64,4 +64,4 @@ Accessibility
 
 - [WCAG2 Techniques](http://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/) - English
 
-**[More accessibility →](https://github.com/SirPepe/HTML5Resources/blob/master/Tools.md)**
+**[More accessibility →](https://github.com/SirPepe/HTML5Resources/blob/master/Accessibility.md)**
