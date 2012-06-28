@@ -8,5 +8,6 @@ Documentation and specifications
 - [Annotated ECMAScript 5.1](http://es5.github.com/)
 - [HTML5rocks](http://www.html5rocks.com/en/)
 - [HTML5Doctor](http://html5doctor.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/)
 
 **[← Back](https://github.com/SirPepe/HTML5Resources/blob/master/README.md)**
