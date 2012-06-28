@@ -24,5 +24,6 @@ JavaScript
 ----------
 
 - [JSPerf](http://jsperf.com/) - Create test cases for JavaScript performance
+- [JSBeautifier](http://jsbeautifier.org/) - Format minified JS code so it’s readable again
 
 **[← Back](https://github.com/SirPepe/HTML5Resources/blob/master/README.md)**
