@@ -7,8 +7,8 @@ A collection of web development resources edited by [Peter Kröner](https://gith
 
 
 
-Documentation and specifications
---------------------------------
+[Documentation and specifications](https://github.com/SirPepe/HTML5Resources/blob/master/Documentation.md)
+----------------------------------
 
 - [DocHub](http://dochub.io/) - Instant documentation search
 - [HTML5 Web Developer Edition](http://developers.whatwg.org/)
@@ -18,8 +18,8 @@ Documentation and specifications
 
 
 
-Compatibility tables
---------------------
+[Compatibility tables](https://github.com/SirPepe/HTML5Resources/blob/master/Compatibility.md)
+----------------------
 
 - [When can I use...](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 - [The Current State of HTML5 Forms](http://wufoo.com/html5/) - Browser support for the different features of HTML5 forms
@@ -45,8 +45,8 @@ JavaScript libraries
 
 
 
-Tools
------
+[Tools](https://github.com/SirPepe/HTML5Resources/blob/master/Tools.md)
+-------
 
 - [jsFiddle](http://jsfiddle.net/) - JavaScript sandbox
 - [Dabblet](http://dabblet.com/) - CSS sandbox
@@ -63,8 +63,8 @@ Guides
 
 
 
-Accessibility
--------------
+[Accessibility](https://github.com/SirPepe/HTML5Resources/blob/master/Accessibility.md)
+---------------
 
 - [WCAG2 Techniques](http://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/) - English
 
