@@ -11,7 +11,8 @@ CSS3
 - [CSS Lint](http://csslint.net/) - Code quality and coding conventions checker
 
 
-** CSS3 Generators**
+CSS3 Generators
+---------------
 
 - [CSS3 Please](http://css3please.com/) - General purpose CSS3 generator
 - [CSS3 Animations](http://westciv.com/tools/animations/)
