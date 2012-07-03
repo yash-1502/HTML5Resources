@@ -8,7 +8,7 @@ CSS3
 - [Dabblet](http://dabblet.com/) - CSS sandbox
 - [JSBin](http://jsbin.com/#javascript,html) - JavaScript sandbox with live evaluation
 - [CSS3 structural pseudo-class selector tester](http://lea.verou.me/demos/nth.html)
-
+- [CSS Lint](http://csslint.net/) - Code quality and coding conventions checker
 
 
 ** CSS3 Generators**
