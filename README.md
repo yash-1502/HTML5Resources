@@ -60,6 +60,7 @@ Guides
 
 - [Principles of writing consistent, idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 - [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+- [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 
 
