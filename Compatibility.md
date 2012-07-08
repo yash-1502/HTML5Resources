@@ -21,14 +21,15 @@ JavaScript
 
 - [ECMAScript 5 compatibility table](http://kangax.github.com/es5-compat-table/)
 - [ECMAScript 6 compatibility table](http://kangax.github.com/es5-compat-table/es6/)
-- [Load and error events on <script> and <link>](http://pieisgood.org/test/script-link-events/)
+- [Load and error events on script and link](http://pieisgood.org/test/script-link-events/)
 
 
 
 CSS
---
+---
 
 - [CSS contents and browser compatibility](http://www.quirksmode.org/css/contents.html)
+
 
 
 **[← Back](https://github.com/SirPepe/HTML5Resources/blob/master/README.md)**
