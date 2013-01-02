@@ -50,6 +50,7 @@ JavaScript libraries
 
 - [jsFiddle](http://jsfiddle.net/) - JavaScript sandbox
 - [Dabblet](http://dabblet.com/) - CSS sandbox
+- [CodePen](http://codepen.io/) - CSS sandbox
 
 **[More tools →](https://github.com/SirPepe/HTML5Resources/blob/master/Tools.md)**
 
@@ -61,6 +62,14 @@ Guides
 - [Principles of writing consistent, idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 - [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
 - [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+- [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - *"documentation about the most quirky parts of the JavaScript programming language"*
+
+
+
+E-Books
+-------
+
+- [DOM Enlightenment](http://domenlightenment.com/)
 
 
 
