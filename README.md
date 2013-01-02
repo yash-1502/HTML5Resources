@@ -3,9 +3,6 @@ HTML5, CSS3 and Web Development Resources
 
 A collection of web development resources edited by [Peter Kröner](https://github.com/SirPepe/HTML5Resources). Suggestions are welcome but not guaranteed to be added.
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Sir_Pepe&url=https://github.com/SirPepe/HTML5Resources&title=HTML5Resources&language=de&tags=github&category=images)
-
-
 
 [Documentation and specifications](https://github.com/SirPepe/HTML5Resources/blob/master/Documentation.md)
 ----------------------------------
@@ -42,6 +39,7 @@ JavaScript libraries
 - [html5shiv](http://code.google.com/p/html5shiv/) - Enables the new HTML5 elements in IE < 9
 - [Prefix Free](http://leaverou.github.com/prefixfree/) - Automatic vendor prefixes for CSS3
 - [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+- [Jster Javascript Catalog](http://jster.net) - Huge collection of libraries
 
 
 
