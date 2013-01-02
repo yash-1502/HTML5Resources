@@ -22,6 +22,7 @@ JavaScript
 
 - [ECMAScript 5 compatibility table](http://kangax.github.com/es5-compat-table/)
 - [ECMAScript 6 compatibility table](http://kangax.github.com/es5-compat-table/es6/)
+- [Non-standard ECMAScript extensions](http://kangax.github.com/es5-compat-table/non-standard/)
 - [Load and error events on script and link](http://pieisgood.org/test/script-link-events/)
 
 
@@ -30,6 +31,12 @@ CSS
 ---
 
 - [CSS contents and browser compatibility](http://www.quirksmode.org/css/contents.html)
+
+
+
+DOM
+---
+- [Dom Compatibility Table](http://codylindley.com/dom-desktop-tests/)
 
 
 
