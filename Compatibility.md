@@ -41,4 +41,4 @@ DOM
 
 
 
-**[← Back](https://github.com/SirPepe/HTML5Resources/blob/master/README.md)**
+**[← Back](README.md)**

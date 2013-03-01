@@ -28,4 +28,4 @@ JavaScript
 - [JSHint](http://www.jshint.com/) - Code quality and coding conventions checker
 - [JSBeautifier](http://jsbeautifier.org/) - Format minified JS code so it’s readable again
 
-**[← Back](https://github.com/SirPepe/HTML5Resources/blob/master/README.md)**
+**[← Back](README.md)**

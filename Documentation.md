@@ -10,4 +10,4 @@ Documentation and specifications
 - [HTML5rocks](http://www.html5rocks.com/en/)
 - [HTML5Doctor](http://html5doctor.com/)
 
-**[← Back](https://github.com/SirPepe/HTML5Resources/blob/master/README.md)**
+**[← Back](README.md)**
