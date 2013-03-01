@@ -25,6 +25,14 @@ A collection of web development resources edited by [Peter Kröner](https://gith
 
 
 
+Hacks
+-----
+
+* [browserhacks.com](http://browserhacks.com/) -  An extensive list of browser specific CSS and JavaScript hacks
+* [ginader / CSS-Hacks](https://github.com/ginader/CSS-Hacks) - Filters to target all A-Grade Browsers individually in CSS
+
+
+
 Cheat sheets
 ------------
 
@@ -74,6 +82,7 @@ E-Books
 [Accessibility](https://github.com/SirPepe/HTML5Resources/blob/master/Accessibility.md)
 ---------------
 
+- [A11Y Project](http://a11yproject.com/) - Checklists, Resourcess and more
 - [WCAG2 Techniques](http://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/) - English
 
 **[More accessibility →](https://github.com/SirPepe/HTML5Resources/blob/master/Accessibility.md)**
