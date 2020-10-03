@@ -15,6 +15,7 @@ Documentations and specifications
 -	[The Current State of HTML5-Forms](http://wufoo.com/html5/) - All new form-types and attributes are documented and constantly tested in the browsers if and why the new techniques are implemented.
 -	[HTML5Doctor](http://html5doctor.com/)
 -	[HTML5rocks](http://www.html5rocks.com/en/)
+- [Learn html](https://www.codecademy.com/) TO learn all the fundamentals of html and other codinf langauges also.
 
 ### German
 
